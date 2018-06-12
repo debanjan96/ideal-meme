@@ -1,2 +1,3 @@
-# ideal-meme
-Just getting started with GitHub
+
+# Algorithms Specialization by Stanford University
+# Coursera
